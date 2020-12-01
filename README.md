@@ -1,6 +1,6 @@
-# my-project
+# A Vue.js project 
 
-> A Vue.js project
+> Vue 2.x and Bootstrap 4.x
 
 ## Build Setup
 
@@ -14,5 +14,3 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
